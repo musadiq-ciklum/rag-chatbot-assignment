@@ -1,0 +1,17 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.env/
+venv/
+
+# Project data
+data/
+data_outputs/
+
+# Optional: logs
+logs/
+*.log
